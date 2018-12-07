@@ -1,4 +1,6 @@
 # NWNX:EE (build 8186)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FUrothis%2Funified.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FUrothis%2Funified?ref=badge_shield)
+
 
 ## What is NWNX:EE?
 
@@ -133,3 +135,7 @@ Thanks, but you should donate your dolla dolla bills to a good cause instead. If
 ## Contact
 
 The team can be contacted on Discord using the invite at the following URL: https://discord.gg/hxTt8Fr
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FUrothis%2Funified.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FUrothis%2Funified?ref=badge_large)
